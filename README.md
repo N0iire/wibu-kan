@@ -31,7 +31,7 @@ Pada aplikasi forumly ini terdapat fitur :
 * 
 
 
-<a href="https://cdnlogo.com/logo/laravel_40397.html"><img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" width="100" height="100">     </a>
+<a href="https://cdnlogo.com/logo/laravel_40397.html"><img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" width="100" height="100" >&ensp;&ensp;&ensp;&ensp;</a>
 <a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img src="https://cdn.cdnlogo.com/logos/t/58/tailwindcss.svg" width="100" height="100"></a>
 <a href="https://cdnlogo.com/logo/react_22568.html"><img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="200" height="100"></a>
 
